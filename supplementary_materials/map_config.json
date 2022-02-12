@@ -1,0 +1,6 @@
+{
+  "max_room_count": 20,
+  "min_room_count": 10,
+  "max_room_size": 13,
+  "min_room_size": 6
+}
