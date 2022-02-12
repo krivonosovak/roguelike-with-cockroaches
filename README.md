@@ -2,7 +2,7 @@
 
 ![](demo.gif)
 
-The goal game is to kill all cockroaches on a map. Good luck with that.
+The goal of the game is to kill all cockroaches on a map. Good luck with that.
 Picking up insect sprays can help kill them faster.
 
 ## Architecture
